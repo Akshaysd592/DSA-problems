@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// to find gcd or hcf
 int gcd(int a, int b)
 {
     if (a == 0)
